@@ -1,6 +1,9 @@
 # FreeCodeCamp-Tribute
 Tribute Page from FreeCodeCamp
 
+<!-- Added Bootstrap -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+
 <div class="container">
   <div class="jumbotron" id="jumbotron">
     <div class="row">
