@@ -4,6 +4,15 @@ Tribute Page from FreeCodeCamp
 <!-- Added Bootstrap -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
 
+<style>
+body {
+  margin-top: 30px;
+  background-color: lightblue;
+}
+</style>
+
+
+<body>
 <div class="container">
   <div class="jumbotron" id="jumbotron">
     <div class="row">
@@ -40,3 +49,4 @@ Tribute Page from FreeCodeCamp
     </div> 
   </div>
 </div>
+</body>
